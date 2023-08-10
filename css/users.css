@@ -1,0 +1,103 @@
+/* Styles pour le conteneur des cartes */
+.user-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* Styles pour chaque carte utilisateur */
+.user-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #84818a;
+    transition: transform 0.3s ease;
+}
+
+/* Styles pour l'avatar utilisateur */
+.user-avatar {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+/* Styles pour le nom d'utilisateur */
+.user-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+/* Styles pour les détails utilisateur */
+.user-details {
+    font-size: 14px;
+}
+
+/* Styles pour les boutons d'action */
+.btn {
+    padding: 8px 15px;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    text-align: center;
+    color: #fff;
+}
+
+.btn-danger {
+    background-color: #ff0000;
+}
+
+.btn-warning {
+    background-color: #ffc107;
+}
+
+.btn-success {
+    background-color: #28a745;
+}
+
+.user-card:hover {
+    transform: scale(1.1);
+}
+
+/* Styles pour la mise en page responsive */
+@media (min-width: 992px) {
+    /* Trois colonnes sur les écrans de taille large */
+    .user-cards-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .user-card {
+        flex: 0 0 calc(33.333% - 20px);
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    /* Deux colonnes sur les écrans de taille moyenne */
+    .user-cards-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .user-card {
+        flex: 0 0 calc(50% - 20px);
+    }
+}
+
+@media (max-width: 767px) {
+    /* Une colonne sur les écrans plus petits */
+    .user-card {
+        flex: 0 0 100%;
+    }
+}
+

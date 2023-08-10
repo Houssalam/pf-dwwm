@@ -1,0 +1,416 @@
+{
+  "en":{
+    "header":{
+      "sign_in": "Sign in",
+      "star_icon": "7",
+      "home": "Home",
+      "products": "Products",
+      "disc": "Disc",
+      "sweater_tosca": "The Sweater in Tosca",
+      "apparel": "Apparel",
+      "shoes": "Shoes",
+      "perfume": "Perfume",
+      "dolce_gabbana": "Dolce & Gabbana",
+      "louis_witton": "Louis Witton",
+      "versace": "Versace",
+      "dior": "Dior",
+      "sale": "Sale",
+      "theshop": "Theshop",
+      "search_icon": "Search",
+      "shopping_bag_icon": "0",
+      "search_products": "Search products"
+    },
+    "slider":{
+      "slide1":{
+        "price": "€39",
+        "title": "Feel the Tosca Color",
+        "button_text": "Show Now"
+      },
+      "slide2":{
+        "price": "€45",
+        "title": "Inner World of Brown",
+        "button_text": "Show Now"
+      },
+      "slide3":{
+        "price": "€90",
+        "title": "What a Mix of Color",
+        "button_text": "Show Now"
+      }
+    },
+    "guide":{
+      "title": "Products Guide",
+      "item1":{
+        "title": "The Blue Ocean MOC",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum minima ullam eaque."
+      },
+      "item2":{
+        "title": "The Blue Ocean MOC",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum minima ullam eaque."
+      },
+      "item3":{
+        "title": "The Blue Ocean MOC",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum minima ullam eaque."
+      },
+      "item4":{
+        "title": "The Best Walking Shoes for Support and Comfort",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum minima ullam eaque."
+      }
+    },
+    "carousel":{
+      "title": "New Arrivals",
+      "item1":{
+        "title": "The Sweater in Tosca",
+        "price_before": "",
+        "price_current": "$45.00"
+      },
+      "item2":{
+        "title": "The Sweater in Tosca",
+        "price_before": "€62.00",
+        "price_current": "€45.00"
+      },
+      "item3":{
+        "title": "The Sweater in Tosca",
+        "price_before": "€62.00",
+        "price_current": "€45.00"
+      },
+      "item4":{
+        "title": "The Sweater in Tosca",
+        "price_before": "",
+        "price_current": "€45.00"
+      },
+      "item5":{
+        "title": "The Sweater in Tosca",
+        "price_before": "€62.00",
+        "price_current": "€45.00"
+      },
+      "item6":{
+        "title": "The Sweater in Tosca",
+        "price_before": "€62.00",
+        "price_current": "€45.00"
+      },
+      "item7":{
+        "title": "The Sweater in Tosca",
+        "price_before": "",
+        "price_current": "€45.00"
+      },
+      "item8":{
+        "title": "The Sweater in Tosca",
+        "price_before": "€62.00",
+        "price_current": "€45.00"
+      }
+    },
+    "banner":{
+      "promo": "Promo",
+      "get_ready": "Get ready!<br>Winter is coming..",
+      "go_get_it": "Go get it"
+    },
+    "from_blog":{
+      "title": "From the blog",
+      "items":[
+        {
+          "image": "images_pf/blog1.jpg",
+          "category": "Hoodie",
+          "title": "What is easier knitting or crocheting?",
+          "link": ""
+        },
+        {
+          "image": "images_pf/blog2.jpg",
+          "category": "Hoodie",
+          "title": "Properly wear a hoodie",
+          "link": ""
+        },
+        {
+          "image": "images_pf/blog3.jpg",
+          "category": "Hoodie",
+          "title": "What should I wear under a sweater?",
+          "link": ""
+        },
+        {
+          "image": "images_pf/blog4.jpg",
+          "category": "Hoodie",
+          "title": "What should I wear under a sweater?",
+          "link": ""
+        }
+      ],
+      "read_more_button": "Read more"
+    },
+    "from_instagram":{
+      "title": "Popular Instagram Photos",
+      "items":[
+        {
+          "image": "images_pf/instagram.jpg",
+          "link": "",
+          "icon": "ri-instagram-line"
+        },
+        {
+          "image": "images_pf/instagram2.jpg",
+          "link": "",
+          "icon": "ri-instagram-line"
+        },
+        {
+          "image": "images_pf/instagram1.jpg",
+          "link": "",
+          "icon": "ri-instagram-line"
+        },
+        {
+          "image": "images_pf/instagram3.jpg",
+          "link": "",
+          "icon": "ri-instagram-line"
+        }
+      ]
+    },
+    "footer":{
+      "subscribe_title": "Get voucher from us",
+      "subscribe_text": "Enter your email below to be the first to know about new collection and product launches",
+      "enter_email": "Enter your mail",
+      "submit_button": "Submit",
+      "service_title": "Service",
+      "about_us": "About Us",
+      "careers": "Careers",
+      "delivery_info": "Delivery Information",
+      "terms_conditions": "Terms & Conditions",
+      "privacy_policy": "Privacy Policy",
+      "pages_title": "Pages",
+      "my_account": "My Account",
+      "login": "Login",
+      "wishlist": "Wishlist",
+      "cart": "Cart",
+      "checkout": "Checkout",
+      "address_title": "Address",
+      "address": "Simpang 5 No.1, Central Java, ID",
+      "phone_number": "+33749962066",
+      "email": "hello@youtube.com",
+      "opening_hours": "Weekdays: 6AM to 6PM\nSaturday: 6AM to 3PM\nSunday: Closed",
+      "facebook_icon": "Facebook",
+      "instagram_icon": "Instagram",
+      "twitter_icon": "Twitter",
+      "whatsapp_icon": "WhatsApp",
+      "copyright": "© 2023. benasbalweb. All right reserved"
+    },
+    "menu_mobile":{
+      "home": "Home",
+      "products": "Products",
+      "discount": "Discount",
+      "specials": "Specials",
+      "sale": "Sale",
+      "login": "Login",
+      "register": "Register",
+      "child_trigger": "Show More"
+    },
+    "heading_sort_list_tabs": {
+      "location": "in",
+      "tab_titles": {
+        "sweater": "Sweater",
+        "hoodie": "Hoodie",
+        "shirt": "Shirt"
+      }
+    }
+  },
+  "fr":{
+    "header":{
+      "sign_in": "Se connecter",
+      "star_icon": "7",
+      "home": "Accueil",
+      "products": "Produits",
+      "disc": "Disque",
+      "sweater_tosca": "Le pull en Tosca",
+      "apparel": "Vêtements",
+      "shoes": "Chaussures",
+      "perfume": "Parfum",
+      "dolce_gabbana": "Dolce & Gabbana",
+      "louis_witton": "Louis Witton",
+      "versace": "Versace",
+      "dior": "Dior",
+      "sale": "Vente",
+      "theshop": "Le magasin",
+      "search_icon": "Rechercher",
+      "shopping_bag_icon": "0",
+      "search_products": "Rechercher des produits"
+    },
+    "slider":{
+      "slide1":{
+        "price": "€39",
+        "title": "Découvrez la couleur Tosca",
+        "button_text": "Voir maintenant"
+      },
+      "slide2":{
+        "price": "€45",
+        "title": "Monde intérieur du brun",
+        "button_text": "Voir maintenant"
+      },
+      "slide3":{
+        "price": "€90",
+        "title": "Quel mélange de couleurs",
+        "button_text": "Voir maintenant"
+      }
+    },
+    "guide":{
+      "title": "Guide des produits",
+      "item1":{
+        "title": "Le Blue Ocean MOC",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel turpis in nibh placerat vestibulum. Nulla vitae elit id orci ullamcorper lacinia. Nullam ac dui non urna laoreet tincidunt et sit amet nisi."
+      },
+      "item2":{
+        "title": "Le Blue Ocean MOC",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel turpis in nibh placerat vestibulum. Nulla vitae elit id orci ullamcorper lacinia. Nullam ac dui non urna laoreet tincidunt et sit amet nisi."
+      },
+      "item3":{
+        "title": "Le Blue Ocean MOC",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel turpis in nibh placerat vestibulum. Nulla vitae elit id orci ullamcorper lacinia. Nullam ac dui non urna laoreet tincidunt et sit amet nisi."
+      },
+      "item4":{
+        "title": "Les meilleures chaussures de marche pour un bon soutien et un grand confort",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel turpis in nibh placerat vestibulum. Nulla vitae elit id orci ullamcorper lacinia. Nullam ac dui non urna laoreet tincidunt et sit amet nisi."
+      }
+    },
+    "carousel":{
+      "title": "Nouveautés",
+      "item1": {
+        "title": "Le pull en Tosca",
+        "price_before": "",
+        "price_current": "€45,00"
+      },
+      "item2": {
+        "title": "Le pull en Tosca",
+        "price_before": "€62,00",
+        "price_current": "€45,00"
+      },
+      "item3": {
+        "title": "Le pull en Tosca",
+        "price_before": "€62,00",
+        "price_current": "€45,00"
+      },
+      "item4": {
+        "title": "Le pull en Tosca",
+        "price_before": "",
+        "price_current": "€45,00"
+      },
+      "item5": {
+        "title": "Le pull en Tosca",
+        "price_before": "€62,00",
+        "price_current": "€45,00"
+      },
+      "item6": {
+        "title": "Le pull en Tosca",
+        "price_before": "€62,00",
+        "price_current": "€45,00"
+      },
+      "item7": {
+        "title": "Le pull en Tosca",
+        "price_before": "",
+        "price_current": "€45,00"
+      },
+      "item8": {
+        "title": "Le pull en Tosca",
+        "price_before": "€62,00",
+        "price_current": "€45,00"
+      }
+    },
+    "banner": {
+      "promo": "Promo",
+      "get_ready": "Préparez-vous !<br>L'hiver arrive...",
+      "go_get_it": "Allez-y"
+    },
+    "from_blog": {
+      "title": "Du blog",
+      "items": [
+        {
+          "image": "images_pf/blog1.jpg",
+          "category": "Hoodie",
+          "title": "Qu'est-ce qui est plus facile, tricoter ou crocheter?",
+          "link": ""
+        },
+        {
+          "image": "images_pf/blog2.jpg",
+          "category": "Hoodie",
+          "title": "Bien porter un hoodie",
+          "link": ""
+        },
+        {
+          "image": "images_pf/blog3.jpg",
+          "category": "Hoodie",
+          "title": "Que devrais-je porter sous un pull?",
+          "link": ""
+        },
+        {
+          "image": "images_pf/blog4.jpg",
+          "category": "Hoodie",
+          "title": "Que devrais-je porter sous un pull?",
+          "link": ""
+        }
+      ],
+      "read_more_button": "Lire plus"
+    },
+    "from_instagram": {
+      "title": "Photos populaires sur Instagram",
+      "items": [
+        {
+          "image": "images_pf/instagram.jpg",
+          "link": "",
+          "icon": "ri-instagram-line"
+        },
+        {
+          "image": "images_pf/instagram2.jpg",
+          "link": "",
+          "icon": "ri-instagram-line"
+        },
+        {
+          "image": "images_pf/instagram1.jpg",
+          "link": "",
+          "icon": "ri-instagram-line"
+        },
+        {
+          "image": "images_pf/instagram3.jpg",
+          "link": "",
+          "icon": "ri-instagram-line"
+        }
+      ]
+    },
+    "footer": {
+      "subscribe_title": "Obtenez un bon de réduction de notre part",
+      "subscribe_text": "Entrez votre adresse e-mail ci-dessous pour être le premier à connaître les nouvelles collections et les lancements de produits",
+      "enter_email": "Entrez votre e-mail",
+      "submit_button": "Envoyer",
+      "service_title": "Service",
+      "about_us": "À propos de nous",
+      "careers": "Carrières",
+      "delivery_info": "Informations de livraison",
+      "terms_conditions": "Conditions générales",
+      "privacy_policy": "Politique de confidentialité",
+      "pages_title": "Pages",
+      "my_account": "Mon compte",
+      "login": "Connexion",
+      "wishlist": "Liste de souhaits",
+      "cart": "Panier",
+      "checkout": "Paiement",
+      "address_title": "Adresse",
+      "address": "Simpang 5 No.1, Java central, ID",
+      "phone_number": "+33749962066",
+      "email": "hello@youtube.com",
+      "opening_hours": "Jours ouvrables : de 6h à 18h\nSamedi : de 6h à 15h\nDimanche : fermé",
+      "facebook_icon": "Facebook",
+      "instagram_icon": "Instagram",
+      "twitter_icon": "Twitter",
+      "whatsapp_icon": "WhatsApp",
+      "copyright": "© 2023. benasbalweb. Tous droits réservés"
+    },
+    "menu_mobile": {
+      "home": "Accueil",
+      "products": "Produits",
+      "discount": "Réduction",
+      "specials": "Spécialités",
+      "sale": "Vente",
+      "login": "Connexion",
+      "register": "S'inscrire",
+      "child_trigger": "Afficher Plus"
+    },
+    "heading_sort_list_tabs": {
+      "location": "dans",
+      "tab_titles": {
+        "sweater": "Pull",
+        "hoodie": "Sweat à capuche",
+        "shirt": "Chemise"
+      }
+    }
+  }
+}
